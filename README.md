@@ -1,3 +1,0 @@
-                                                 ◦•●◉✿ F̟l̟y̟ H̟i̟g̟h̟ ✿◉●•◦
-Hello! welcome to my profile....
-
