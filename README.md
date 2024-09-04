@@ -1,5 +1,5 @@
 
-<h1 align="center"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="100" alt="animated hello"> 👋, I'm Mrinal Mondal</h1>
+<h1 align="center"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="100" alt="animated hello"> 👋, I'm Debabrata Santra</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" width="1000">
 <p align="Center"></p>
@@ -14,15 +14,14 @@
 
 - 💬 Ask me about **Generative AI**
 
-- 📫 How to reach me **mondalmrinal39@gmail.com**
+- 📫 How to reach me **ds2357196@gmail.com**
 
 <img align="left" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGpnYzd0M2pqcml3bTZjYXhuMmZnbGNkaGVnZjg4Ym15Z2dxNHpzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gHnz7kjz0SSHutFezl/giphy.gif" width="400">
 <br><br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/mrinal--mondal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mrinal--mondal" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/mrinalmondal6969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mrinalmondal6969" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mrinal.mondal.37604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mrinal.mondal.37604" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/radhedebu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/radhedebu/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/debabrata.santra2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/debabrata.santra2001/" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
