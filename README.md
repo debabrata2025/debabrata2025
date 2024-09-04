@@ -30,7 +30,7 @@
 <br><br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whisplnspace&show_icons=true&theme=dark&locale=en&layout=compact" alt="whisplnspace"  width="350" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=whisplnspace&show_icons=true&locale=en" alt="whisplnspace"  width="350" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=debabrata2025&show_icons=true&locale=en" alt="whisplnspace"  width="350" /></p>
 <br><br/>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <br><br/>
